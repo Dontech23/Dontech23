@@ -1,4 +1,4 @@
-### Olá, Bem vindo!! Eu Sou Adones Silva 👋🤖
+### Olá, Bem vindo!! Sou Adones Silva 👋🤖
 
 - 👧🏽 Tenho a filha mais linda desse mundo!
 - 💻 Atualmente trabalho como Analista de Infraestrutura
