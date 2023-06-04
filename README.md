@@ -1,9 +1,9 @@
 ### Olá, Bem vindo!! Eu Sou Adones Silva 👋🤖
 
 - 👧🏽 Tenho a filha mais linda desse mundo!
-- 🔭 Atualmente trabalho como Analista de Infraestrutura
-- 🌱 Estou migrando para área de DevOps.
-- 👯 Procuro incentivar amigos e familiares a vir para área de TI
+- 💻 Atualmente trabalho como Analista de Infraestrutura
+- 📈 Estou migrando para área de DevOps.
+- ✊ Procuro incentivar amigos e familiares a vir para área de TI
 - ⚡ Um fato sobre mim: Aprendo muito rápido, repasso conhecimento muito bem e sou curioso
 
   ##
