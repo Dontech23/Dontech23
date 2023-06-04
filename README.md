@@ -1,12 +1,11 @@
 ### Olá Bem vindo!! Eu Sou Adones Silva 👋🤖
 
 - 👧🏽 Tenho a filha mais linda desse mundo!
-- 🔭 Atualmente trabalho com Suporte a TI
-- 🌱 Estou estudando Java, HTML, CSS, JavaScript.
-- 👯 Procuro incentivar amigos e familiares a vir para o Desenvolvimento
-- 🤔 Em transição de carreira procurando ingressar na área
+- 🔭 Atualmente trabalho como Analista de Infraestrutura
+- 🌱 Estou migrando para área de DevOps.
+- 👯 Procuro incentivar amigos e familiares a vir para área de TI
 - 📫 Para me contatar incialmente este é meu endereço: adoness1@gmail.com
-- ⚡ Um fato sobre mim: Aprendo muito rápido e sou curioso
+- ⚡ Um fato sobre mim: Aprendo muito rápido, repasso conhecimento muito bem e sou curioso
 
   ##
 
