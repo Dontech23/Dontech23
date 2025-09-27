@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/Dontech23">
-  <!--<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Dontech23&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>-->
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Dontech23&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dontech23&layout=compact&langs_count=7&theme=onedark"/>
   </div>
   <div style="display: inline_block" align="center"><br>
@@ -20,9 +20,8 @@
   <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
   <img align="center" alt="AWS" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> -->
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
  
 </div>
 
