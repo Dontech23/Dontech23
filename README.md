@@ -8,7 +8,7 @@
 
   ##
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dontech23)](https://github.com/dontech23/github-readme-stats)
+## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dontech23)](https://github.com/dontech23/github-readme-stats)
 
   
 
@@ -17,6 +17,7 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Dontech23&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dontech23&layout=compact&langs_count=7&theme=onedark"/>
   </div>
+    
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Vagrant" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
