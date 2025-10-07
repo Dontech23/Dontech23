@@ -8,9 +8,6 @@
 
   ##
   
-## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dontech23)](https://github.com/dontech23/github-readme-stats)
-
-  
 
 <div align="center">
   <a href="https://github.com/Dontech23">
