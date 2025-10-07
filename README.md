@@ -7,6 +7,10 @@
 - ⚡ Fatos sobre mim: Dedicado, curioso e sempre transformando desafios em aprendizado.
 
   ##
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dontech23=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 
 <div align="center">
   <a href="https://github.com/Dontech23">
