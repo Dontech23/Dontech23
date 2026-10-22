@@ -1,10 +1,12 @@
 ### Olá, Bem vindo!! Sou Adones 👋🤖
 
-- 👧🏽 Sou Pai(Bobão) da menina mais incrível do mundo. Minha maior inspiração.
-- 💻 Concilio dois empregos em TI enquanto invisto no meu crescimento profissional.
-- 📈 Em transição para a área de DevOps, com foco em evolução contínua.
-- ✊ Minha família é a base e a maior motivação para alcançar meus objetivos.
-- ⚡ Fatos sobre mim: Dedicado, curioso e sempre transformando desafios em aprendizado.
+- 👧🏽 Sou pai (bobão) da menina mais incrível do mundo. Minha maior inspiração e motivação diária.
+- 💻 Profissional de infraestrutura de TI, redes e suporte técnico, sempre aprimorando meus conhecimentos e buscando eficiência.
+- 🐧 Estou Aprofundando meus conhecimentos em Linux, Docker, automação e ferramentas de infraestrutura.
+- 🚀 Em transição para DevOps, construindo minha jornada com estudos práticos, projetos e aprendizado contínuo.
+- ✊ Minha família é minha base da minha dedicação e é o que me move a conquistar novos objetivos.
+- ⚡ Curioso por tecnologia, comprometido com a evolução profissional e sempre transformando desafios em aprendizado.
+
 
   ##
   
